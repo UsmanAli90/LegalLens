@@ -6,12 +6,7 @@ import tempfile
 import os
 
 whisper_model = whisper.load_model("base")
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    os.system("python -m spacy download en_core_web_sm")
-    nlp = spacy.load("en_core_web_sm")
-
+nlp = spacy.load("en_core_web_sm")
 
 try:
     with open("pakistan_laws.json", "r", encoding="utf-8") as f:
