@@ -1,0 +1,5 @@
+streamlit
+spacy
+whisper
+torch
+numpy
