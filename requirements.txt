@@ -1,5 +1,5 @@
 streamlit
 spacy
-whisper
+openai-whisper
 torch
 numpy
