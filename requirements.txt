@@ -1,5 +1,5 @@
 streamlit
 spacy
 openai-whisper
-torch==2.0.1
+torch
 numpy
