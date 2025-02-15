@@ -1,0 +1,192 @@
+[
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "3",
+        "article": "Unauthorized Access",
+        "title": "Unauthorized Access to Information System or Data",
+        "description": "Whoever with dishonest intention gains unauthorized access to any information system or data shall be punished with imprisonment up to three years or with a fine up to one million rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "4",
+        "article": "Unauthorized Copying",
+        "title": "Unauthorized Copying or Transmission of Data",
+        "description": "Whoever with dishonest intention and without authorization copies or transmits any data shall be punished with imprisonment up to six months or with a fine up to one hundred thousand rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "5",
+        "article": "Interference with Data",
+        "title": "Interference with Information System or Data",
+        "description": "Whoever with dishonest intention interferes with or damages any part or whole of an information system or data shall be punished with imprisonment up to two years or with a fine up to five hundred thousand rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "6",
+        "article": "Unauthorized Access to Critical Infrastructure",
+        "title": "Unauthorized Access to Critical Infrastructure Information System or Data",
+        "description": "Whoever with dishonest intention gains unauthorized access to any critical infrastructure information system or data shall be punished with imprisonment up to five years or with a fine up to five million rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "7",
+        "article": "Unauthorized Copying of Critical Infrastructure Data",
+        "title": "Unauthorized Copying or Transmission of Critical Infrastructure Data",
+        "description": "Whoever with dishonest intention and without authorization copies or transmits any critical infrastructure data shall be punished with imprisonment up to five years or with a fine up to five million rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "8",
+        "article": "Interference with Critical Infrastructure",
+        "title": "Interference with Critical Infrastructure Information System or Data",
+        "description": "Whoever with dishonest intention interferes with or damages any part or whole of a critical infrastructure information system or data shall be punished with imprisonment up to seven years or with a fine up to ten million rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "9",
+        "article": "Glorification of Offence",
+        "title": "Glorification of an Offence",
+        "description": "Whoever prepares or disseminates information that glorifies an offence or the person accused or convicted of a crime shall be punished with imprisonment up to seven years or with a fine or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "10",
+        "article": "Cyber Terrorism",
+        "title": "Cyber Terrorism",
+        "description": "Whoever commits or threatens to commit any offence with the intent to coerce, intimidate, or create a sense of fear in the government or public shall be punished with imprisonment up to fourteen years or with a fine up to fifty million rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "13",
+        "article": "Electronic Forgery",
+        "title": "Electronic Forgery",
+        "description": "Whoever fraudulently or dishonestly makes, generates, or issues an electronic document with the intent to deceive shall be punished with imprisonment up to three years or with a fine up to two hundred fifty thousand rupees or both."
+    },
+    {
+        "law_name": "Cybercrime Prevention Act",
+        "section": "14",
+        "article": "Electronic Fraud",
+        "title": "Electronic Fraud",
+        "description": "Whoever fraudulently or dishonestly gains unauthorized access to any information system or data with the intent to obtain an economic benefit shall be punished with imprisonment up to two years or with a fine up to ten million rupees or both."
+    },
+    {
+        "law_name": "Prevention of Anti-Women Practices Act, 2011",
+        "section": "2",
+        "article": "Deprivation from Inheritance",
+        "description": "Whoever, by deceitful or illegal means, deprives a woman of her inheritance rights shall be punished with imprisonment of either description for a term which may extend to ten years but shall not be less than five years and with a fine of one million rupees."
+    },
+    {
+        "law_name": "Protection Against Harassment of Women at the Workplace Act, 2010",
+        "section": "3",
+        "article": "Harassment at Workplace",
+        "description": "Any person who commits an act of harassment against a woman at the workplace shall be liable to disciplinary action, including a fine or termination of employment, as prescribed under the law."
+    },
+    {
+        "law_name": "Acid Control and Acid Crime Prevention Act, 2011",
+        "section": "336A",
+        "article": "Hurt Caused by Corrosive Substances",
+        "description": "Whoever causes hurt by means of a corrosive substance shall be punished with imprisonment for life or imprisonment of either description which shall not be less than fourteen years and a fine which may not be less than one million rupees."
+    },
+    {
+        "law_name": "Domestic Violence (Prevention and Protection) Act, 2012",
+        "section": "5",
+        "article": "Penalty for Domestic Violence",
+        "description": "Whoever commits an act of domestic violence shall be punished with imprisonment which may extend to three years or with a fine which may extend to one hundred thousand rupees or with both."
+    },
+    {
+        "law_name": "Criminal Law (Amendment) (Offense of Rape) Act, 2016",
+        "section": "375",
+        "article": "Definition of Rape",
+        "description": "A man is said to commit rape if he penetrates the vagina, anus, or urethra of a woman with any part of his body or with any object without her consent. The offense is punishable with death or imprisonment for a term not less than ten years."
+    },
+    {
+        "law_name": "Criminal Law (Amendment) (Offenses in the Name or Pretext of Honour) Act, 2016",
+        "section": "311",
+        "article": "Punishment for Honour Crimes",
+        "description": "Whoever commits an offense in the name or on the pretext of honour shall be punished with death or imprisonment for life, notwithstanding any compromise or pardon."
+    },
+    {
+        "law_name": "Transgender Persons (Protection of Rights) Act, 2018",
+        "section": "7",
+        "article": "Prohibition of Harassment",
+        "description": "Harassment of transgender persons, both within and outside the home, is prohibited and shall be punishable according to the provisions of this Act."
+    },
+    {
+        "law_name": "The Zainab Alert, Response and Recovery Act, 2020",
+        "section": "3",
+        "article": "Zainab Alert, Response and Recovery Agency (ZARRA)",
+        "description": "Establishes ZARRA to issue alerts for missing children and ensure their swift recovery. The agency coordinates with various stakeholders to protect children from abduction and exploitation."
+    },
+    {
+        "law_name": "The Juvenile Justice System Act, 2018",
+        "section": "4",
+        "article": "Prohibition of Death Penalty for Juveniles",
+        "description": "Ensures that any individual under the age of 18 at the time of the commission of an offense shall not be sentenced to death, promoting rehabilitation and reintegration into society."
+    },
+    {
+        "law_name": "The National Commission on the Rights of Child Act, 2017",
+        "section": "15",
+        "article": "Functions of the Commission",
+        "description": "Empowers the commission to examine and review laws related to child rights, propose new legislation, and ensure the effective implementation of measures for child protection."
+    },
+    {
+        "law_name": "The Islamabad Capital Territory Child Protection Act, 2018",
+        "section": "9",
+        "article": "Child Protection Institutions",
+        "description": "Mandates the establishment of child protection institutions to provide shelter, care, and rehabilitation to children in need, including those subjected to abuse, exploitation, or neglect."
+    },
+    {
+        "law_name": "The Employment of Children Act, 1991",
+        "section": "3",
+        "article": "Prohibition of Employment of Children",
+        "description": "Prohibits the employment of children below the age of 14 in certain hazardous occupations and regulates the working conditions of adolescents to prevent exploitation and abuse."
+    },
+    {
+        "law_name": "The Child Marriage Restraint Act, 1929",
+        "section": "4",
+        "article": "Punishment for Male Adult Marrying a Child",
+        "description": "Prescribes penalties for adult males above 18 years who contract a marriage with a child below the specified age, aiming to prevent child marriages and protect children's rights."
+    },
+    {
+        "law_name": "The Prevention of Trafficking in Persons Act, 2018",
+        "section": "3",
+        "article": "Offense of Trafficking in Persons",
+        "description": "Criminalizes the act of recruiting, transporting, transferring, harboring, or receiving individuals, especially children, through coercion, abduction, fraud, or deception for exploitation purposes."
+    },
+    {
+        "law_name": "The Criminal Law (Second Amendment) Act, 2016",
+        "section": "292A",
+        "article": "Exposure to Seduction",
+        "description": "Addresses the offense of exposing children to obscene and sexually explicit material, prescribing imprisonment and fines to protect children's moral and psychological well-being."
+    },
+    {
+        "law_name": "Domestic Violence (Prevention and Protection) Act, 2012",
+        "section": "5",
+        "article": "Penalty for Domestic Violence",
+        "description": "Whoever commits an act of domestic violence shall be punished with imprisonment which may extend to three years or with a fine which may extend to one hundred thousand rupees or with both."
+    },
+    {
+        "law_name": "Punjab Protection of Women Against Violence Act, 2016",
+        "section": "7",
+        "article": "Protection Orders",
+        "description": "The court may issue a protection order to prevent the respondent from committing any act of violence against the aggrieved person, prohibiting communication, and ensuring the safety of the aggrieved person."
+    },
+    {
+        "law_name": "Sindh Domestic Violence (Prevention and Protection) Act, 2013",
+        "section": "8",
+        "article": "Establishment of Protection Committees",
+        "description": "The government shall establish Protection Committees at the district level to monitor the implementation of the Act and assist victims of domestic violence."
+    },
+    {
+        "law_name": "Balochistan Domestic Violence (Prevention and Protection) Act, 2014",
+        "section": "9",
+        "article": "Appointment of Protection Officers",
+        "description": "The government shall appoint Protection Officers to assist the court in the discharge of its functions and to ensure the safety of the aggrieved person."
+    },
+    {
+        "law_name": "Khyber Pakhtunkhwa Domestic Violence Against Women (Prevention and Protection) Act, 2021",
+        "section": "10",
+        "article": "Shelter Homes",
+        "description": "The government shall establish shelter homes for the aggrieved persons to provide them with temporary residence and necessary facilities."
+    }
+]
